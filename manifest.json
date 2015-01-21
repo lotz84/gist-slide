@@ -1,0 +1,12 @@
+{
+  "name": "gist-slide",
+  "manifest_version": 2,
+  "version": "0.1",
+  "description": "Presentation on gist",
+  "content_scripts": [
+    {
+      "matches": ["https://gist.github.com/*"],
+      "js": ["lib/jquery.min.js", "lib/remark.min.js", "script.js"]
+    }
+  ]
+}
