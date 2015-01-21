@@ -17,5 +17,10 @@ Chrome を起動してURLバーから<chrome://extensions/>にアクセスしま
 
 これで完了です！
 
+##使い方
+Raw ボタンの左に「▶プレゼンテーションを開始」のボタンが追加されるのでこれを押すだけです
+
+![](http://i.gyazo.com/62cfe66fa2a3c86ba08f7d4fbe262b70.png)
+
 ##LICENSE
 MIT License
