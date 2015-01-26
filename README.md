@@ -22,5 +22,8 @@ Raw ボタンの左に「▶プレゼンテーションを開始」のボタン�
 
 ![](http://i.gyazo.com/62cfe66fa2a3c86ba08f7d4fbe262b70.png)
 
+###スタイルの適用
+`~style.css`というファイルを追加すればそこに記述したCSSをスライドに適用することができます
+
 ##LICENSE
 MIT License

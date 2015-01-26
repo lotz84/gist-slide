@@ -11,7 +11,7 @@ var start = function() {
     });
   }
   var url = $(".gist-content .meta")
-            .filter(function(i, obj){return $(obj).find("strong.file-name").text() == "style.css";})
+            .filter(function(i, obj){return $(obj).find("strong.file-name").text() == "~style.css";})
             .find(".raw-url").attr("href")
   $.get(url+"/raw/style.css")
   .then(function(style){
